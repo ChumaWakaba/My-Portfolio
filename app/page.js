@@ -11,7 +11,7 @@ const Home = () => {
     <div className='bg-gradient-to-r from-[#696969] to-[#D7A2A8]'>
       <section className='mx-auto w-[90%] py-16'>
         <Banner/>
-        {/* <Resume/> */}
+        <Resume/>
         <Projects/>
         {/* <Testimonials/> */}
         <Contact/>

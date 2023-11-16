@@ -22,8 +22,8 @@ const Banner = () => {
           <h3 className='uppercase text-white text-lg py-2'>Welcome to my world!</h3>
           <h1 className='text-6xl py-3 font-semibold'>Hi, I'm <span className='text-[#DA6085]'>Chuma Wakaba</span></h1>
           <h2 className='text-3xl py-3'>A Full Stack Web Developer</h2>
-          <p className='py-3'>Lorem ipsum dolor iahhs jeuja ahgddn jsjw sjudhdn yaydu ahdhhsi suaj din a ujsbaju jsbajds ssjiasbd sjhdhaid jhd djshgwd jsg sdjb djsdhsk hjx</p>
-          <div className='flex justify-between mt-4'>
+          <p className='py-3'>I'm a well-rounded web developer with expertise in creating interactive and user friendly web applications. I have been officially working as a developer for a year and and am now proficient in building modern, responsive web applications using Next.js. As mentioned above, I am a full-stack web-developer capable of working on both frontend and backend aspects of web development, using Tailwind CSS to streamline the styling and design of web applications. I am experienced in responsive web design. Being able to design and develop websites that adapt seamlessly to various screen sizes and devices. Effective communicator with collaboration skills for working well in a development teams.</p>
+          <div className='flex justify-between mt-8'>
             <div>
               <h2 className='mb-3 uppercase text-[#383535] font-semibold'>Find me on</h2>
               <div className='grid grid-cols-4 justify-evenly gap-4 text-3xl text-[#f54e80] bg-[#383535] rounded p-4 shadow-xl shadow-[#DA6085]/50'>
